@@ -1,0 +1,56 @@
+#header{
+  background-image:url(https://previews.123rf.com/images/artisticco/artisticco1701/artisticco170100013/69367031-a-vector-illustration-of-fast-food-restaurant.jpg);
+
+  background-repeat:no-repeat;
+  background-size: cover;
+  
+ }
+body{
+   color: white;
+   }
+ h5{
+ 	color: red;
+ }
+ #content{
+	text-align: center;
+	padding-top: 20% 
+}
+body{
+
+	background-size:default;
+	background-position: center;
+}
+p{
+	color: Black;
+
+}
+h2,h4{
+	text-align: center;
+}
+input {
+	font-size: 18px;
+	color: #2980b9;
+	background-color: #f7f7f7;
+	width:100%;
+	padding: 13px 13px 13px 20px;
+	box-sizing: border-box;
+}
+input:focus{
+	background:#fff;
+	border: 2px solid #2980b9;
+}
+#rightbox{
+    float:left;
+    width:250px;
+    height:350px;
+    margin:5px;
+    border:1px solid blue;
+}
+
+#lefttbox{
+    float:left;
+    width:250px;
+    height:350px;
+    margin:5px;
+    border:1px solid green;
+}
